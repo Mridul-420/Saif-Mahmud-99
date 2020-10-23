@@ -31,10 +31,7 @@ I am a First Year Computer Engineering Student at College DIU.
 <img src="https://github-readme-stats.vercel.app/api?username=Saif-Mahmud-99&&show_icons=true&theme=radical&line_height=27&v=5" alt="Aryan's GitHub Stats" /> 
 </p>
 
-
-<img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
-
 <h4 align="center">Top languages :tongue:</h4>
 
-
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saif-Mahmud-99&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
