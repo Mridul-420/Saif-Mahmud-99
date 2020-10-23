@@ -4,12 +4,12 @@
 
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-<h3> 👨🏻•💻 About Me </h3>
+<h3> 👨🏻• 💻 About Me </h3>
  
 :heart: Programming |
 
 I am a First Year Computer Engineering Student at College DIU.
-- 🌱 I’m currently learning  C program |  Font-End development |
+- 🌱 I’m currently learning  C program |  
 - 💬 Ask me about anything. I will try to help you as much as I can.
 - ⚡ Quote: There is always time. You just have to find it.
 - 💪🏼 Future Goals: Learn more technologies - Never stop creating new ideas.
@@ -23,14 +23,21 @@ I am a First Year Computer Engineering Student at College DIU.
 - 💻 &nbsp; C | 
 
 - 🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap |
+<br>
 
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Saif-Mahmud-99&&show_icons=true&theme=radical&line_height=27&v=5" alt="Aryan's GitHub Stats" /> 
 </p>
 
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
 <img align="right" alt="GIF" height="170px" src="https://media.giphy.com/media/J5B1Y8QZnzXXbLQIBu/giphy.gif" />
+
+<h4 align="center">Top langs :tongue:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saif-Mahmud-99&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 ### Spotify Playing 🎧
 
-[![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/user/11153360645)
+[![Spotify](https://open.spotify.com/user/11153360645)
 
