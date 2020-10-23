@@ -35,5 +35,5 @@ I am a First Year Computer Engineering Student at College DIU.
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saif-Mahmud-99&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
+<img align="center" alt="GIF" src="https://media.giphy.com/media/836HiJc7pgzy8iNXCn/giphy.gif" />
 
