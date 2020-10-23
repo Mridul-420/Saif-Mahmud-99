@@ -36,6 +36,5 @@ I am a First Year Computer Engineering Student at College DIU.
 
 <h4 align="center">Top languages :tongue:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Saif-Mahmud-99&langs_count=10&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
 
