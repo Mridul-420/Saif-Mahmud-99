@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://github.com/thompsonemerson/thompsonemerson/raw/master/cover-thompson.png" />
+</p>
 ### Hi
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
